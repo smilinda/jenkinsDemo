@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pearson.git</groupId>
 	<artifactId>mysample</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mysample Maven Webapp</name>
 	<url>http://maven.apache.org</url>
